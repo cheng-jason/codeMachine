@@ -19,6 +19,6 @@
       "lodash": "4.17.4"
     },
     "dependencies": {
-      "JSON": "^1.0.0"
+      "JSON": ">=10.0.0"
     }
   }
